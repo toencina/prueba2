@@ -1,0 +1,17 @@
+.red-font {
+    color: red;
+    text-align: center;
+}
+
+.border-blue {
+    border: solid 1px blue;
+    border-radius: 50%;
+}
+
+h1 {
+    color: green;
+}
+
+#pepe {
+    font-family: Arial;
+}
